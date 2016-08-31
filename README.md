@@ -1,0 +1,1 @@
+This program allows the user to manage employee schedules. It manipulates one list at any time representing one person's schedule comprised of 100 schedule entries (because scheduling someone that many days in advance would just be irresponsible), each consisting of a begin time, an end time, a location, and a comment.
